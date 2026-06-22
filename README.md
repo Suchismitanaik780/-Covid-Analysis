@@ -1,12 +1,13 @@
 🦠 COVID Analysis Dashboard (Power BI)
 ---------------------------------------------------------------
+
 📌 Project Overview
 ---------------------------------------------------
 
 The COVID Analysis Dashboard is a Power BI project designed to analyze global COVID-19 data and provide insights into cases, deaths, recoveries, testing statistics, and population trends across countries and continents. The dashboard supports data exploration through filters, drill-through functionality, bookmarks, and visual reports.
 
-🎯 Objectives
 
+🎯 Objectives
 ---------------------------------------------------
 
 ◦Monitor key COVID-19 metrics globally.
@@ -21,7 +22,6 @@ The COVID Analysis Dashboard is a Power BI project designed to analyze global CO
 
 
 📊 Dashboard Pages
-
 ----------------------------------------------------
 
 1. Index Page
@@ -32,6 +32,7 @@ The COVID Analysis Dashboard is a Power BI project designed to analyze global CO
 
 
 2. COVID Analysis Page
+   
 ---------------------------------
 
  ◦KPI Cards
@@ -52,7 +53,6 @@ Filters
 ◦Continent
 
 Visualizations
-
 ----------------
  ◦Pie Chart: Total Cases, Total Deaths, and Total Recovered
  
@@ -69,6 +69,7 @@ Drill-Through
 
 
 3. Bookmark Page
+
 ----------------------------------
  ◦Table Visual
  
@@ -112,7 +113,6 @@ Bookmark Feature
  ◦Data Visualization
 
 🚀 Key Features
-
 ------------------------------------------
  ◦KPI Monitoring
  
